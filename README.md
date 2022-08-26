@@ -70,13 +70,22 @@ The RISC-V Instruction Set Architecture (ISA) is a language used to talk to comp
 
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/110079774/186946336-cfd59209-d546-4d32-b032-e8c7be444b5f.png)
+
 ![Screenshot (29)](https://user-images.githubusercontent.com/110079774/186946352-af3f5b66-3a06-4bfb-81ad-807bfff05894.png)
+
 ![Screenshot (31)](https://user-images.githubusercontent.com/110079774/186946389-9ad98b7f-2126-47eb-85f4-4cb17490bc1e.png)
+
 ![Screenshot (33)](https://user-images.githubusercontent.com/110079774/186946411-97486c57-d0e6-4013-9faf-3f85bb4cbb5e.png)
+
 ![Screenshot (34)](https://user-images.githubusercontent.com/110079774/186946417-2e9a9846-a1b9-4f23-a7f7-db02f94aa196.png)
+
 ![Screenshot (35)](https://user-images.githubusercontent.com/110079774/186946423-30fb3cad-0be3-4ae2-971f-386ed04c4b8a.png)
+
 ![Screenshot (36)](https://user-images.githubusercontent.com/110079774/186946428-7421200e-9940-4eac-ba84-c5aea0cef9db.png)
+
 ![Screenshot (39)](https://user-images.githubusercontent.com/110079774/186946450-d6f6b5a6-b841-4a3d-809e-d8cf051e330e.png)
+
+![risc_intro](https://user-images.githubusercontent.com/110079774/186947032-83972b55-9ab5-400a-bf69-1b9977e0b6e7.png)
 
 
 
